@@ -4,7 +4,8 @@ const app = Vue.createApp({
 
     data() {
         return {
-            message: `Ciao Booleaner!`,
+            message: `Ciao Mario!`,
+            link_img: "https://upload.wikimedia.org/wikipedia/it/5/50/Mario_Nintendo.png"
         }
     }
 
